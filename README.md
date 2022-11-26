@@ -1,2 +1,2 @@
 ### myGoFramwork
-#### My golang server framwork.
+#### 游戏服务器
